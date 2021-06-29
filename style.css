@@ -1,0 +1,33 @@
+.jumbotron{
+    background-color: #828283;
+    padding-top: 6rem;
+    padding-bottom: 2rem;
+}
+
+.jumbotron p {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.about{
+    padding-bottom: 45px;
+    padding-top: 45px;
+}   
+
+#portofolio{
+    padding: 7 0px;
+}
+
+img{
+    border: solid grey 5px;
+}
+
+.navbar li:hover{
+    color: white;
+    background-color: lightskyblue;
+}
+
+footer{
+    font-weight: bold;
+    margin-top: 60px;
+}
